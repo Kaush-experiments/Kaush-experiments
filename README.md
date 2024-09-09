@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h4 align="justify">
+Hello..! My name is Kaushal, and I am a passionate student and job aspirant willing to be career-oriented in web development with a keen interest in front-end design. This is about the design and building of visually attractive and user-friendly web applications, with an emphasis on continuous learning, experimentation, and testing to develop my skills further. Let's connect and create something amazing!</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
